@@ -1,6 +1,5 @@
+import numpy as np
 
+print(np.array([1, 2, 4,]))
 
-l =list(range(0,100_000))
-
-l2 = [e**2 for e in l]
-# print(l2)
+ 
